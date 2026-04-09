@@ -1,0 +1,13 @@
+# Core Data Science & AI
+numpy
+opencv-python
+tensorflow>=2.16.0
+ultralytics
+
+# Web Interface
+streamlit
+
+# Utilities
+pandas
+matplotlib
+scikit-learn
