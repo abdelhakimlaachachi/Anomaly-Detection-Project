@@ -16,10 +16,9 @@ The project is structured as follows:
 * `data_collection.py`: Script for collecting and preparing video data.
 * `data_visualisations.py`: Tools for visualizing metrics and results.
 * `model_training.py`: Script dedicated to training and fine-tuning the detection models.
-* `yolov8n-pose.pt` / `yolov8s-pose.pt`: Pre-trained weights for YOLOv8 models (Nano and Small) for pose estimation.
 * `requirements.txt`: List of dependencies and Python libraries required for the project.
 * `workflows/n8n_alert_workflow.json`: Exported n8n workflow file for the automated alerting system.
-* `dataset_pose/`, `models/`, `testing_videos/`, `local_saved_clips/`: Folders containing training data, saved models, test videos, and extracted anomaly clips.
+* `dataset_pose/`, `models/``: Folders containing training data, saved models.
 * `assets/`: Folder containing project screenshots.
 
 ## 🔔 Alert System Integration (n8n)
