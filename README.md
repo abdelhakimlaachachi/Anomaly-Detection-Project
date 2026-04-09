@@ -44,7 +44,7 @@ When an anomaly is detected, the system sends an HTTP POST request to an **n8n w
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPO_LINK>
+   git clone https://github.com/abdelhakimlaachachi/Anomaly-Detection-Project.git
    cd PFE_Anomaly_Detection
    ```
 
